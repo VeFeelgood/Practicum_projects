@@ -1,7 +1,14 @@
-В данном проекте проведен анализ данных о покупателях и сделанных ими заказах для интернет-магазина товаров для дома.
+Customer Data Analysis for a Home Goods Online Store.
 
-**Цель:** Увеличение продаж и выручки, а также сегментация пользователей для дальнейших разработок маркетинговых стратегий в разрезе отдельных сегментов покупателей.
+**Goal:** 
+- Increase sales and revenue
+- Segment the user base for targeted marketing strategies
 
-**Инструменты:** Python, pandas, plotly, seaborn, matplotlib, datetime, numpy, scipy, math
+**Tools & Technologies:** 
+- Python (pandas, NumPy, SciPy)
+- Visualization (Plotly, Seaborn, Matplotlib)
 
-**Выводы:** Было выделено четыре сегмента покупателей с помощью метода RFM, предложены маркетинговые рекомендации для каждого сегмента.
+**Key Findings:** 
+- Identified four distinct customer segments using RFM analysis
+- Developed tailored marketing recommendations for each segment
+- Provided actionable insights for targeted customer engagement
