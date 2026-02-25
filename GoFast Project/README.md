@@ -1,7 +1,7 @@
-Данный проект исследует данные о пользователях сервиса аренды самокатов и их поездках.
+Dieses Projekt untersucht Daten über Nutzer eines E-Scooter-Verleihservices und deren Fahrten.
 
-**Цель:** Проверка статистических гипотез о разнице в бизнес-показателях пользователей с подпиской и без для дальнейшего роста бизнеса.
+**Ziel:** Überprüfung statistischer Hypothesen zu Unterschieden in den Geschäftskennzahlen zwischen Nutzern mit und ohne Abonnement zur weiteren Geschäftsentwicklung.
 
-**Инструменты:** Python, pandas, scipy, numpy, matplotlib
+**Technologien:** Python, pandas, scipy, numpy, matplotlib
 
-**Выводы:** Выявлена статистическая значимость отличий выручки и средней продолжительности поездки пользователей с подпиской и без: эти показатели выше при наличии подписки.
+**Ergebnisse:** Es wurde eine statistisch signifikante Differenz beim Umsatz und bei der durchschnittlichen Fahrtdauer zwischen Nutzern mit und ohne Abonnement festgestellt: Diese Kennzahlen sind bei Vorliegen eines Abonnements höher.
