@@ -1,7 +1,13 @@
-В данном проекте проанализированы события, входящие в воронку продаж, для определения конверсии пользователей в последующие шаги и установления событий с наибольшим оттоком пользователей, а также проведено А/А/В тестирование между двумя контрольными и одной тестовой группой с оценкой его результатов для проверки гипотезы эффективности внесения изменений в шрифт.
+**Projekt:** Funnel- & A/B-Test-Analyse zur Optimierung der User Journey
 
-**Цель:** Оптимизация приложения и уменьшение оттока пользователей для увеличения количества заказов.
+- Analyse der Conversion-Funnel-Ereignisse zur Identifikation von Drop-off-Punkten entlang der Customer Journey
+- Berechnung von Conversion Rates zwischen einzelnen Prozessschritten
+- Durchführung eines A/A/B-Tests zur Überprüfung der Hypothese bezüglich einer UI-Anpassung (Schriftänderung)
+- Statistische Auswertung der Testergebnisse zur Bewertung der Signifikanz
+- Ableitung datenbasierter Handlungsempfehlungen zur Reduktion der Nutzerabwanderung
+- 
+**Ziel:** Optimierung der App und Steigerung der Bestellrate.
 
-**Инструменты:** Python, pandas, matplotlib, numpy, scipy, math, datetime; Статистический анализ, AA и AB тестирование
+**Technologien:** Python, pandas, matplotlib, numpy, scipy, math, datetime; Statistische Tests, A/A/B-Tests.
 
-**Выводы:** Стоит признать гипотезу о влиянии изменении шрифта на увеличение количество пользователей сайта неэффективной.
+**Schlussfolgerungen:** Es ist anzuerkennen, dass die Hypothese über den Einfluss einer Schriftartänderung auf die Erhöhung der Anzahl der Website-Nutzer als unwirksam zu betrachten ist.
